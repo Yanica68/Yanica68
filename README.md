@@ -17,6 +17,40 @@
 
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=Yanica68&theme=chalk&no-frame=false&no-bg=false&margin-w=4)
+# About me
+- 👋 Hi, I am @Jana-Palkova
+
+- 🦸 I am a 
+- ⚒️ My preferred programming language is **Python 🐍**
+
+- 📫 You can find me at **[LinkedIn](https://www.linkedin.com/in/-reiter/)**
+
+- ⚡ **Fun fact**: 
+
+# My Socials
+
+# Languages, Tools and Frameworks   
+<img align="left" alt="html5" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-html5.png" />
+<img align="left" alt="python" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-python.png" />
+
+<img align="left" alt="SQL" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-sql.png" />
+<img align="left" alt="XML" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-xml.png" />
+
+<img align="left" alt="Anaconda IDE" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-anaconda.png" />
+<img align="left" alt="Jetbrains Datalore" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-datalore.png" />
+<img align="left" alt="Microsoft Excel" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-excel.png" />
+<img align="left" alt="Google Analztics" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-ga.png" />
+
+<img align="left" alt="Microsoft Project" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-project.png" />
+<img align="left" alt="Jetbrains PyCharm" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-pycharm.png" />
+
+<img align="left" alt="Microsoft Visual Studio" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-visual-studio-ide.png" />
+<img align="left" alt="Jetbrains Webstorm" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-webstorm.png" />
+<img align="left" alt="WordPress" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-wordpress.png" />
+ 
+<img align="left" alt="Microsoft SQL Server" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-sql-server.png" />
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Yanica68&icon=0&color=11)](https://visitcount.itsvg.in)
+
